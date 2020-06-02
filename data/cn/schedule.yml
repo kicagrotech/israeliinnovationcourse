@@ -1,0 +1,74 @@
+enable  : true
+topTitle: 
+title   : 学习历程
+subtitle: 
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 以⾊列创新概论 - Chutzpah概念 
+    description : >
+
+  - number  : 2
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 犹太智慧 - 为什么问题⽐答案更重要？
+    description : >
+
+  - number  : 3
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Pahroh - 法⽼王：学习如何接受失败
+    description : >
+
+  - number  : 4
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Tachles - 学习如何以以⾊列⽅式将⾕物与⾕壳 分离。 
+    description : >
+      希伯来语⼀词的意思是“实际细节”，通常⽤于要求直接性或“直截了当”。
+ 
+  - number  : 5
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Mishpucha - ⼀切都与关系⽹络有关
+    description : >
+
+  - number  : 6
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Sabres - “你是谁”和“你是什么”之间的区别
+    description : >
+
+  - number  : 7
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 如何利⽤⼈脉关系创造商机？ 
+    description : >
+      特邀发⾔⼈ Liat Netanel
+
+  - number  : 8
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 破墙而出舒适区 
+    description : >
+      特邀发⾔⼈ Honorary Counsel Mr. Adi Rozenfeld
+
+  - number  : 9
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 创造⼒ - 在盒⼦⾥思考，⽤最少量创造最⼤量。
+    description : >
+
+  - number  : 10
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 创新不仅仅是科技 
+    description : >
+      特邀发⾔⼈ Dr Daniel Naveh
+
+  - number  : 11
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Balgan - 为什么混沌是获得成功最好的朋友
+    description : >
+
+  - number  : 12
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 以⾊列决策⽅式 - 军事经验
+    description : >
+      特邀发⾔⼈ (Res.) Br. General Bentzi Gruber
+
+  - number  : 13
+    icon    : tf-ion-ios-briefcase-outline
+    title   : 犹太说故事⽅式：学习如何传达你的想法以激励⼈们采取⾏动。
+    description : >

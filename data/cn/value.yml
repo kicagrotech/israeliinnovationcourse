@@ -1,0 +1,17 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-book-outline
+    title : 第二名
+    description : >
+      以色列在纳斯达克市场上排名第二，纳斯达克市场是全球市值最大的两个证券交易所之一。 有90多家以色列公司在纳斯达克上市。
+
+  - icon  : tf-ion-ios-copy-outline
+    title : 6,000
+    description : >
+      以色列共有6,000家初创公司在营业，每年有600家新的初创公司。
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : 1,210
+    description : >
+      从2010年到2019年，以色列进行了1,210项技术并购和IPO，总价值为1112.9亿美元。
+

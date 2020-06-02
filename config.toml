@@ -1,0 +1,224 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Israeli Innovation Course | Create a better tomorrow"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "cn"
+
+# Site Params
+[params]
+logo = "images/newLogo.png"
+
+# Gestion des langues : FR / EN / NL / DE
+[[Params.listeLangues]]
+code = "cn"
+[[Params.listeLangues]]
+code = "en"
+
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+
+# Gestion des langues : FR / EN / NL / DE
+[Languages]
+######################## 1 - Site en CHINESE ########################
+[Languages.cn]
+weight = 1
+languageCode = "cn-zh"
+title = "以⾊列创新课程"
+dateFormat = "2 January 2006"
+
+home = "主页"
+logo = "images/newLogo.png"
+menufixed = false
+
+footerDescription = "从诺⻉尔奖获得者，惊⼈的应⽤程序到脱盐技术，以⾊列是改变世界 的创新超级国家。"
+footerServiceTitle = "CHINESE Services"
+footerQuicklinkTitle = "CHINESE Quick links"
+footerAboutTitle = "关于"
+footerSubscribeTitle = "订阅"
+
+# Hero Area Section
+[Languages.cn.params.hero]
+enable  = true
+heading = "以⾊列创新课程"
+description = "从诺⻉尔奖获得者，惊⼈的应⽤程序到脱盐技术，以⾊列是改变世界 的创新超级国家。 想要成为成功的⼀部分吗？ 加⼊我们的课程！"
+button  = true
+btnText = "了解更多"
+btnURL  = "#about"
+videoThumb = "images/tel-aviv.jpg"
+videoURL   = "https://www.youtube.com/embed/m8LQKBqBcpw"
+
+# About 2 Section
+[Languages.cn.params.aboutSm]
+enable  = true
+title   = "CHINESE We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.cn.params.blog]
+enable  = false
+topTitle= "OUR UNTOLD STORY"
+title   = "CHINESE Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.cn.params.contact]
+enable  = true
+topTitle= ""
+title   = "联系"
+subtitle= ""
+address = "Kinneret Innovation Center, Jordan Valley, Israel"
+phone   = "+972 4 665 3826"
+facebook= "https://www.facebook.com/KinneretInnovationCenter"
+linkedin= "https://www.linkedin.com/company/kinneret-innovation-center/"
+instagram= "https://www.instagram.com/kinneretinnovationcenter/"
+youtube= "https://www.youtube.com/channel/UCNO2E0PVE0Y0HsGgjDcFCJw"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.cn.params.cta]
+enable  = true
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "CHINESE Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Nous contacter"
+
+######################## 2 - Site en ENGLISH ########################
+[Languages.en]
+weight = 2
+languageCode = "en-us"
+title = "Israeli Innovation Course"
+dateFormat = "January 2, 2006"
+
+home = "EN Home"
+logo = "images/newLogo.png"
+menufixed = false
+
+footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerServiceTitle = "Service"
+footerQuicklinkTitle = "Quicklinks"
+footerAboutTitle = "About"
+footerSubscribeTitle = "Subscribe"
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable  = true
+heading = "Israeli Innovation Course"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+button  = true
+btnText = "Learn More"
+btnURL  = ""
+videoThumb = "images/slider/video-player-thumb.jpg"
+videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable  = true
+title   = "We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable  = false
+topTitle= "OUR UNTOLD STORY"
+title   = "Blog."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.en.params.contact]
+enable  = true
+topTitle= "DROP US A NOTE"
+title   = "Contact Us."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable  = true
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 3
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "blog"
+url     = "blog"
+weight  = 5
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
+
+# Footer Service Menu
+[[menu.service]]
+name    = "graphicdesign"
+url     = "service"
+weight  = 1
+[[menu.service]]
+name    = "webdesign"
+url     = "service"
+weight  = 2
+[[menu.service]]
+name    = "webdevelopment"
+url     = "service"
+weight  = 3
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = "about"
+weight  = 1
+[[menu.quicklink]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.quicklink]]
+name    = "faqs"
+url     = "about"
+weight  = 3
+[[menu.quicklink]]
+name    = "badges"
+url     = "about"
+weight  = 4

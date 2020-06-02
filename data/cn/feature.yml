@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-book-outline
+    title : 课程时长
+    description : >
+      13节
+
+  - icon  : tf-ion-ios-book-outline
+    title : 工作机会
+    description : >
+      选定得分最高的参与者将获得前往以色列的免费旅程，并能够申请在以色列享有声望的科技公司各个领域的工作机会。 选择远程工作或搬到以色列工作。
+
+  - icon  : tf-ion-ios-book-outline
+    title : 学费
+    description : >
+      如果你与同事一起报名，可享受高达20％的特殊团体报名折扣。 有关课程费用和更多详细信息，请通过tomer@kic.co.il与Tomer联系。

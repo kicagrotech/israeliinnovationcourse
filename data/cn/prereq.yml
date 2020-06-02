@@ -1,0 +1,25 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-alarm-outline
+    title : ⾼学习能⼒
+    description : >
+      ⾼于平均成绩
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : 能够激励和领导团队
+    description : >
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : 有商业经验
+    description : >
+      ⼀个优势
+  
+  - icon  : tf-ion-ios-alarm-outline
+    title : 有海外⼯作经验
+    description : >
+      ⼀个优势
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : 精通英语
+    description : >
+      IELTS: 写作测验⾄少6分; TOEFL: ⾄少570（纸）或90（互联⽹）或237（电脑）; GMAT: 650或更⾼; GRE: 153口头和153定量; BEC: B级

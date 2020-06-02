@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/dead-sea.jpg
+    title : 从顶级了解创造⼒和创新！
+    description : >
+      从以色列创新方法领域的最佳老师获得实用工具，以创建创新产品，老师们也是各自领域的专家。
+
+  - positionRight : true
+    image : images/about/haifa.jpg
+    title : 脱颖而出，找到信誉良好的工作机会！
+    description : >
+      与领先的以色列公司匹配以找到工作机会。 甄选过程将通过在线面试，论文以及课程中分配的任务进行。

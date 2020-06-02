@@ -1,0 +1,13 @@
+enable : true
+item    :
+  - quote       : >
+      这个课程能让我了解以⾊列智慧，成为更好的⾃⼰。
+    clientThumb : images/client-logo/IMG_Testimonial1.jpg
+    clientName  : 何嫦好
+    clientDesignation: ⼴州市祁弥殿贸易有限公司董事⻓
+
+  - quote       : >
+      课程逻辑清晰，简洁实⽤，指导性很强，收获⽴竿⻅影！
+    clientThumb : images/client-logo/IMG_Testimonial2.jpg
+    clientName  : 陈章媛
+    clientDesignation: 某咨询管理公司总经理, 某科技公司联合创始⼈

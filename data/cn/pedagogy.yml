@@ -1,0 +1,26 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : 视频讲座
+    description : >
+      13节课，总共260小时
+
+  - icon  : tf-ion-ios-copy-outline
+    title : 建立关系网络
+    description : >
+      与以色列企业家交流
+
+  - icon  : tf-ion-ios-copy-outline
+    title : 工作申请
+    description : >
+      以色列20家领先公司的工作申请
+
+  - icon  : tf-ion-ios-copy-outline
+    title : 创意游戏
+    description : >
+      改变你的思维方式
+
+  - icon  : tf-ion-ios-copy-outline
+    title : 个人反馈
+    description : >
+      每位参与者将享有2次个人会议和反馈

@@ -1,0 +1,17 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : Duration
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Job Opportunities
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-book-outline
+    title : Course Fees
+    description : >
+      Enjoy a special group enrollment discount of up to 20% if you enroll with your colleagues. For courses fees and more details, please contact Tomer at tomer@kic.co.il.
+

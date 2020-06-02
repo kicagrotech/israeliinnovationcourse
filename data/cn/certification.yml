@@ -1,0 +1,7 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/Certificate2.png
+    title : 证书
+    description : >
+      成功完成该课程后，参与者将获得以⾊列Kinneret学院验证和颁发 的数码证书。

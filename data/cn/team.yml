@@ -1,0 +1,55 @@
+enable  : true
+topTitle: 
+title   : 课程讲师
+subtitle: 
+
+member  :
+  - image         : images/team/IMG_Tomer.jpg
+    name          : Tomer Swisa
+    designation   : KIC 产业创新和国际关系总监 
+    description   : >
+      Tomer Swisa 毕业于Shalem College，以⾊列 第⼀所也是迄今为⽌唯⼀的⽂理学院。Tomer是 ⼀位才华横溢的知识分⼦，向⻘年，政客和商⼈教 授政治哲学，领导能⼒和演讲技巧。 Kinneret创 新中⼼是⼀个独特的枢纽，将农业和⽔技术为导向 的学术界与领先的区域性产业紧密联系在⼀起。
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : 
+
+  - image         : images/team/IMG_Liat.jpg
+    name          : Liat Netanel
+    designation   : 计划经理，微软和初创公司
+    description   : >
+      Liat 为早期和种⼦阶段的初创公司策划并领导计 划。 她也是⼀名律师，曾代表多家公司和私⼈客 ⼾。 另外，Liat 是⼀位超级⻢拉松选⼿，在以⾊ 列和世界各地⽐赛。 她被认为是以⾊列领先的超 ⻢拉松运动员之⼀。她最近完成了166公⾥的⽐ 赛，并在探寻下⼀场具有挑战性的⽐赛。
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/Adi.png
+    name          : Mr Adi Rozenfeld
+    designation   : 名誉领事 
+    description   : >
+      Adi Rozenfeld先⽣是⼀名商⼈，顾问，⾃2002年 以来⼀直担任斯洛⽂尼亚共和国驻以⾊列的名誉领 事。Rozenfeld先⽣曾是以⾊列主要公司的董事会 成员和海法⼤学协会前友⼈联盟主席。他在以⾊列 北部的家是企业家，政治家，投资者和其他世界各 地⼈⼠的聚会场所。 他致⼒于在以⾊列促进犹太 ⼈与阿拉伯⼈的共处。
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/IMG_Naveh.jpg
+    name          : Dr. Daniel Naveh
+    designation   : ⼈类学家
+    description   : >
+      Naveh博⼠的研究从⼈类学的⻆度探讨了猎⼈和采 集者社会与环境以及幼⼉教育发展之间的关系。
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/IMG_Bentzi.jpg
+    name          : (Res.) Br. General Bentzi Gruber
+    designation   : (后备役) 准将 
+    description   : >
+      Bentzi Gruber 准将是第252师的副司令（后备 役），该师是以⾊列国防军的20,000装甲师。作为 企业家，他建⽴了互联⽹初创公司，成为房地产开 发商，并担任各种技术公司的董事会成员。他是⾮ 营利组织“ Chesed In The Field”的创始⼈，该 组织全年将IDF预备役⼈员与慢性病和残疾⼉童召 集在⼀起参加活动，将社区和社会责任的价值观灌 输到成千上万的⼠兵⼼中。 Bentzi Gruber 准将 还建⽴了“实地伦理”，以揭穿谬论，并提出今天 有关以⾊列反恐讨论的遗漏事实。他在全球范围内 就此主题进⾏演讲，并在美国和欧洲进⾏了400多 次演讲。Bentzi Gruber 准将在全国性会议，西点 军校和美国空军等美国军事学院对⾼中⽣，⼤学⽣ 演讲。
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
