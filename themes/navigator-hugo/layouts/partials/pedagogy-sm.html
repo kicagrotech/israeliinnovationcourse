@@ -1,0 +1,21 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.pedagogysm }}
+    {{ if .enable }}
+    {{ "<!-- Start About Section -->" | safeHTML }}
+    <section class="about-2 section bg-gray" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-5">
+                    <h2>{{ .title }}</h2>
+                </div>
+                <div class="col-12 col-md-7">
+                    <p>{{ .description | markdownify }}</p>
+                    <p>{{ .description1 | markdownify }}</p>
+                    <p>{{ .description2 | markdownify }}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ "<!-- End About section -->" | safeHTML }}
+    {{ end }}
+{{ end }}
